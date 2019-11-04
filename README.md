@@ -1,8 +1,11 @@
 # Self Help
-## What would you like help with?
-- [Child Support]
-- [Indigency]
-- [Divorce]
-- [Custody]
-- [Parenting Time]
-- [Adult Guardianship]
+## Family Law Help
+### Child Support
+### Indigency
+### Divorce
+### Child Custody
+### Parenting Time
+## Health Law
+### Adult Guardianship
+### Temporary Guardianship
+### Rogers Authority
