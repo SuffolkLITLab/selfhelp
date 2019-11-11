@@ -1,48 +1,16 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-<HTML xmlns="http://www.w3.org/1999/xhtml"
-
-      xmlns:og="http://ogp.me/ns#"
-
-      xmlns:fb="http://www.facebook.com/2008/fbml">
-
-<HEAD>
-
-	<title>Self Help</title>
-
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108858221-1"></script>
-
-	<script>
-
-	  window.dataLayer = window.dataLayer || [];
-
-	  function gtag(){dataLayer.push(arguments);}
-
-	  gtag('js', new Date());
-
-
-
-	  gtag('config', 'UA-108858221-1');
-
-	</script>
-
-	<meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
-
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-
-	<meta name="apple-mobile-web-app-capable" content="no" />
-
-  <link rel="apple-touch-icon" href="../images/icon_300.png"/>
-
-	<meta property="og:type" content="website"/>
-
-	<meta property="og:title" content="Self Help"/>
-
-	<meta property="og:description" content="Tools and support for pro se litigants."/>
-
-	
+# Self Help
+*This is a class project. You should not rely on it as a source of legal information. It is likely incomplete.*
+## Family Law
+### Indigency
+- *insert automated form with video instructions*
+### Restraining Order (209(a))
+- *insert video*
+- *insert automated form*
+### Divorce
+- *insert video of procedure timeline*
+- *insert automated forms 1a-1b-2*
+### Child Custody
+### Parenting Time
 
 </HEAD>
 
@@ -143,19 +111,7 @@
 		<p class="profile_title"><a name="teninbaum" href="#teninbaum" class="anchor"></a><b>Gabriel Teninbaum</b>, Professor of Legal Writing, Director of the Institute on Law Practice Technology & Innovation, Director of the Law Practice Technology Concentration</p>
 
 		<p>
-# Self Help
-*This is a class project. You should not rely on it as a source of legal information. It is likely incomplete.*
-## Family Law
-### Indigency
-- *insert automated form with video instructions*
-### Restraining Order (209(a))
-- *insert video*
-- *insert automated form*
-### Divorce
-- *insert video of procedure timeline*
-- *insert automated forms 1a-1b-2*
-### Child Custody
-### Parenting Time
+
 ## Health Law
 ### Adult Guardianship 
 - *insert video overview of guadianship*
