@@ -1,7 +1,6 @@
 # Self Help
-*This is a class project. You should not rely on it as a source of legal information. It is likely incomplete.*<p>
-	
-	The following information and tools were designed by clinical students in Suffolk's Legal Innovation and Technology Lab to assist individuals concerning matters of family and health law. The lab is a joint effort between the <a href="http://www.suffolk.edu/law/clinics">clinics at Suffolk Law</a> and the <a href="https://sites.suffolk.edu/legaltech/">Institute on Legal Innovation and Technology</a>.<p>
+*This is a class project. You should not rely on it as a source of legal information. It is likely incomplete.*
+	The following information and tools were designed by clinical students in Suffolk's Legal Innovation and Technology Lab to assist individuals concerning matters of family and health law. The lab is a joint effort between the <a href="http://www.suffolk.edu/law/clinics">clinics at Suffolk Law</a> and the <a href="https://sites.suffolk.edu/legaltech/">Institute on Legal Innovation and Technology</a>.
 	
 ## Family Law
 ### Indigency
