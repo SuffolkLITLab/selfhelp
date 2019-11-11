@@ -98,19 +98,17 @@
 
 	<div class="listing" style="float:left;border-top: solid 1px #ccc;width:100%;margin-top:30px;">
 
-	<h2>&nbsp;&nbsp;Faculty<a name="faculty" href="#faculty" class="anchor"></a></h2>
+	<h2>&nbsp;&nbsp;Faculty<a name="Topics" href="#faculty" class="anchor"></a></h2>
 
   </div>
 
   <div class="listing" style="float:left;border-top: solid 1px #ccc;margin-top:10px;">
 
-		<div class="profile_wrapper"><div class="profile_pic" style="background-image: url('../images/colarusso_1.jpg');background-position: -45px center;"></div></div>
+		<div class="profile_wrapper"><div class="profile_pic" style="background-image: url('../GuardianshipClipArt.png');background-position: -45px center;"></div></div>
 
-		<p class="profile_title"><a name="colarusso" href="#colarusso" class="anchor"></a><b>David Colarusso</b>, Director of the Legal Innovation and Technology Lab, Clinical Fellow</p>
+		<p class="profile_title"><a name="colarusso" href="#colarusso" class="anchor"></a><b>Adult Guardianship</p>
 
-		<p>David Colarusso is the Director of Suffolk University Law School's Legal Innovation and Technology Lab. An attorney and educator by training, he has worked as a public defender, data scientist, software engineer, and high school physics teacher. He is the author of a programming language for lawyers, <a href="http://www.qnamarkup.org/">QnA Markup</a>, an award winning <a href="http://www.lawtechnologytoday.org/2014/08/aba-first-hackathon-how-a-public-defender-built-due-processr/">legal hacker</a>, <a href="http://www.abajournal.com/legalrebels/article/david_colarusso_profile">ABA Legal Rebel</a>, and <a href="http://www.fastcase.com/fastcase50/?class=2016">Fastcase 50 honoree</a>. In 2017 he was named one of the ABA's <a href="http://www.abajournal.com/magazine/article/best_law_twitter_web_100">top legal tweeters</a>.</p>
-
-		<p style="text-align:right;"><a href="http://www.davidcolarusso.com/">Personal Website</a> | <a href="https://twitter.com/Colarusso">Twitter</a> | <a href="https://www.linkedin.com/in/colarusso/">LinkedIn</a> | <a href="http://www.suffolk.edu/law/faculty/75150.php">University Listing</a> | <a href="https://osf.io/fya6w/">LawArXiv</a></p>
+		<p>Adult Guardianship <a href="http://www.lawtechnologytoday.org/2014/08/aba-first-hackathon-how-a-public-defender-built-due-processr/">...fill in overview.David Colarusso is the Director of Suffolk University Law School's Legal Innovation and Technology Lab.</p>
 
 	</div>
 
