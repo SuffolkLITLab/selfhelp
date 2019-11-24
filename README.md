@@ -2,9 +2,9 @@
 *This is a class project. You should not rely on it as a source of legal information. It is likely incomplete.*<p>
 *These resources help people with family and health related legal matters.*
 
-## Family Law
 
-[![Image of 1]<img src="https://mlursul.github.io/selfhelp/images/FamilyLogo.jpg" align="left" height="48" width="48" ></a>
+
+## Family Law [![Image of 1]<img src="https://mlursul.github.io/selfhelp/images/FamilyLogo.jpg" align="left" height="48" width="48" ></a>                  ##Health Law<img src="https://mlursul.github.io/selfhelp/images/HealthLogo.jpg" align="right" height="48" width="48" ></a> 
 A geo-locator app can be used to search for and filter through programs and services in your area. Click the video to watch a presentation explaining what a geo-locator app does and why it can be useful. This repository was created to help you create your own version of Suffolk LIT Lab's geo-locator website application, which can be found [here.](http://suffolklitlab.org/resource-map/) Here are the steps to create your own geo-locator website application:
 **<p> 1. Head to https://github.com/ and create your own account. </p>**
 **<p> 2. Once you've created an account, go to https://github.com/SuffolkLITLab/resource-map-how-to. </p>**
