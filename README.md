@@ -4,11 +4,6 @@
 
 <div class="content">
 
-
-
-src="../images/space.gif" width="100px" height="100px;" border="0"/></a></div>
-<h1 style="text-align:center;">Legal Innovation &amp; Technology Lab<center style="margin-top:5px;"><span class="subtitle"> Suffolk Law School</span></center></h1>
-
 <div class="menu_bar">
 <p style="text-align:center;">
 <a href="../" class="menu">&nbsp;Home&nbsp;</a>
