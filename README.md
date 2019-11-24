@@ -4,12 +4,14 @@
 
 # <img src="https://mlursul.github.io/selfhelp/images/FamilyLogo.jpg" align="left" height="250" width="250"></a>Family Law 
 
+### [![Image of 1](https://mlursul.github.io/selfhelp/images/AdultGuardianship.PNG)](https://youtu.be/nLd4gxX29xM)</a> 
+
 ## What can we help you with?
 #### - Indigency
 #### - Restraining Order (209(a))
 #### - Divorce
 
-### [![Image of 1](https://mlursul.github.io/selfhelp/images/AdultGuardianship.PNG)](https://youtu.be/nLd4gxX29xM)</a> 
+
 
 ## Health Law<img src="https://mlursul.github.io/selfhelp/images/HealthLogo.jpg" align="left" height="200" width="200" ></a> 
 
