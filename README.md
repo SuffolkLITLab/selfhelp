@@ -2,16 +2,14 @@
 *This is a class project. You should not rely on it as a source of legal information. It is likely incomplete.*<p>
 *These resources help people with family and health related legal matters.*
 
+## Family Law<img src="https://mlursul.github.io/selfhelp/images/FamilyLogo.jpg" align="left" height="200" width="200" ></a
 
+<image src="https://youtu.be/iQxx1wD4FMY" align="center" height="300" width="300"><a/>
 
-## Family Law<img src="https://mlursul.github.io/selfhelp/images/FamilyLogo.jpg" align="left" height="200" width="200" ></a>     
-
- ### What can we help you with?
-  - Indigency
-  - Restraining Order (209(a))
-  - Divorce
-
-
+### What can we help you with?
+- Indigency
+- Restraining Order (209(a))
+- Divorce
 
 ## Health Law<img src="https://mlursul.github.io/selfhelp/images/HealthLogo.jpg" align="right" height="240" width="240" ></a> 
 
