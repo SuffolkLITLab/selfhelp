@@ -4,17 +4,17 @@
 # Family Law <img src="https://mlursul.github.io/selfhelp/images/FamilyLogo.jpg" align="left" height="60" width="60">
 
 ### Family Law 101
-[![Image of 1](https://mlursul.github.io/selfhelp/images/AdultGuardianship.PNG)](https://youtu.be/nLd4gxX29xM)</a> 
+[![Image of 1](https://mlursul.github.io/selfhelp/images/AdultGuardianship.PNG)](https://youtu.be/nLd4gxX29xM)
 
 ### What can we help you with?
 - [Indigency](https://mlursul.github.io/clio/)
 - [Restraining Order (209(a))](https://mlursul.github.io/clio/)
 - [Divorce](https://mlursul.github.io/clio/)
 
-# Health Law<img src="https://mlursul.github.io/selfhelp/images/HealthLogo.jpg" align="left" height="60" width="60" ></a> 
+# Health Law<img src="https://mlursul.github.io/selfhelp/images/HealthLogo.jpg" align="left" height="60" width="60" >
 
 ### Guardianship 101
-[![Image of 1](https://mlursul.github.io/selfhelp/images/AdultGuardianship.PNG)](https://youtu.be/nLd4gxX29xM)</a>
+[![Image of 1](https://mlursul.github.io/selfhelp/images/AdultGuardianship.PNG)](https://youtu.be/nLd4gxX29xM)
 
 ### Adult Guardianship Help
 - [Permanent & Temporary Guardianship](https://mlursul.github.io/clio/)
