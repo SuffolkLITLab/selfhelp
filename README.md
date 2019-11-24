@@ -10,7 +10,7 @@
 - Divorce
 
 ## Health Law<img src="https://mlursul.github.io/selfhelp/images/HealthLogo.jpg" align="right" height="200" width="200" ></a> 
-[![Watch the video](https://mlursul.github.io/selfhelp/images/AdultGuardianship.png](https://youtu.be/nLd4gxX29xM)
+[![Image of 1](https://mlursul.github.io/selfhelp/images/AdultGuardianship.png)](https://youtu.be/nLd4gxX29xM)
 ### Adult Guardianship Help
 - Permanent & Temporary Guardianship
 - Rogers Review Assistant
