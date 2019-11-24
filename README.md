@@ -1,12 +1,10 @@
 # Self Help
 *This is a class project. You should not rely on it as a source of legal information. It is likely incomplete.*<p>
-
-The following resources were designed by students in Suffolk's Legal Innovation and Technology fellowship program to assist individuals with family and health law matters. The lab is a joint effort between the <a href="http://www.suffolk.edu/law/clinics">clinics at Suffolk Law</a> and the <a href="https://sites.suffolk.edu/legaltech/">Institute on Legal Innovation and Technology</a>.
-
+*These resources help people with family and health related legal matters.*
 
 ##Family Law
 
-[![Image of 1](http://suffolklitlab.org/resource-map/HowTo%20Images/Video.png)](https://www.youtube.com/watch?v=qbPf9VRP6eU)
+[![Image of 1](https://mlursul.github.io/selfhelp/images/FamilyLawLogo)](https://www.youtube.com/watch?v=qbPf9VRP6eU)
 A geo-locator app can be used to search for and filter through programs and services in your area. Click the video to watch a presentation explaining what a geo-locator app does and why it can be useful. This repository was created to help you create your own version of Suffolk LIT Lab's geo-locator website application, which can be found [here.](http://suffolklitlab.org/resource-map/) Here are the steps to create your own geo-locator website application:
 **<p> 1. Head to https://github.com/ and create your own account. </p>**
 **<p> 2. Once you've created an account, go to https://github.com/SuffolkLITLab/resource-map-how-to. </p>**
