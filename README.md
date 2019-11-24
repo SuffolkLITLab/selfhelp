@@ -4,20 +4,22 @@
 
 # Family Law <img src="https://mlursul.github.io/selfhelp/images/FamilyLogo.jpg" align="left" height="60" width="60"></a>
 
+## What can we help you with?
+- Indigency
+- Restraining Order (209(a))
+- Divorce
+
+## Family Law 101
 [![Image of 1](https://mlursul.github.io/selfhelp/images/AdultGuardianship.PNG)](https://youtu.be/nLd4gxX29xM)</a>  
 
-## What can we help you with?
-#### - Indigency
-#### - Restraining Order (209(a))
-#### - Divorce
+# Health Law<img src="https://mlursul.github.io/selfhelp/images/HealthLogo.jpg" align="left" height="60" width="60" ></a> 
 
-## Health Law<img src="https://mlursul.github.io/selfhelp/images/HealthLogo.jpg" align="left" height="60" width="60" ></a> 
-
-[![Image of 1](https://mlursul.github.io/selfhelp/images/AdultGuardianship.PNG)](https://youtu.be/nLd4gxX29xM)</a>
-
-### Adult Guardianship Help
+## Adult Guardianship Help
 - Permanent & Temporary Guardianship
 - Rogers Review Assistant
+
+## Guardianship 101
+[![Image of 1](https://mlursul.github.io/selfhelp/images/AdultGuardianship.PNG)](https://youtu.be/nLd4gxX29xM)</a>
 
 A geo-locator app can be used to search for and filter through programs and services in your area. Click the video to watch a presentation explaining what a geo-locator app does and why it can be useful. This repository was created to help you create your own version of Suffolk LIT Lab's geo-locator website application, which can be found [here.](http://suffolklitlab.org/resource-map/) Here are the steps to create your own geo-locator website application:
 **<p> 1. Head to https://github.com/ and create your own account. </p>**
