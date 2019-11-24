@@ -2,7 +2,7 @@
 *This is a class project. You should not rely on it as a source of legal information. It is likely incomplete.*<p>
 *These resources help people with family and health related legal matters.*
 
-# <img src="https://mlursul.github.io/selfhelp/images/FamilyLogo.jpg" align="right" height="200" width="200"></a>Family Law 
+# <img src="https://mlursul.github.io/selfhelp/images/FamilyLogo.jpg" align="right" height="300" width="300"></a>Family Law 
 
 ## What can we help you with?
 - Indigency
