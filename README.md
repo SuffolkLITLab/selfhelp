@@ -2,7 +2,7 @@
 *This is a class project. You should not rely on it as a source of legal information. It is likely incomplete.*<p>
 *These resources help people with family and health related legal matters.*
 
-# [![Image of 1](https://mlursul.github.io/selfhelp/images/AdultGuardianship.PNG)](https://youtu.be/nLd4gxX29xM)</a> <img src="https://mlursul.github.io/selfhelp/images/FamilyLogo.jpg" align="left" height="250" width="250"></a>Family Law 
+# <img src="https://mlursul.github.io/selfhelp/images/FamilyLogo.jpg" align="left" height="250" width="250"></a>Family Law [![Image of 1](https://mlursul.github.io/selfhelp/images/AdultGuardianship.PNG)](https://youtu.be/nLd4gxX29xM)</a>  
 
 
 ## What can we help you with?
