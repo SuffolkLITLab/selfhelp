@@ -7,7 +7,7 @@
 
 
 <div id="icon" style="background-size: 100px 100px;background-image: url('../images/seal.jpg');"><a href="/"><img src="../images/space.gif" width="100px" height="100px;" border="0"/></a></div>
-<h1 style="text-align:center;">Legal Innovation &amp; Technology Lab<center style="margin-top:5px;"><span class="subtitle">@ Suffolk Law School</span></center></h1>
+<h1 style="text-align:center;">Legal Innovation &amp; Technology Lab<center style="margin-top:5px;"><span class="subtitle"> Suffolk Law School</span></center></h1>
 
 <div class="menu_bar">
 <p style="text-align:center;">
@@ -23,6 +23,8 @@
 <a href="https://twitter.com/SuffolkLITLab" class="menu" target="_blank">&nbsp;Twitter&nbsp;</a>
 	</p>
 	</div>
+	
+# Self Help
 *This is a class project. You should not rely on it as a source of legal information. It is likely incomplete.*<p>
 *These resources help people with family and health related legal matters.*
 
