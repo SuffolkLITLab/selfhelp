@@ -4,7 +4,7 @@
 
 
 
-## Family Law<img src="https://mlursul.github.io/selfhelp/images/FamilyLogo.jpg" align="right" height="240" width="240" ></a>     
+## Family Law<img src="https://mlursul.github.io/selfhelp/images/FamilyLogo.jpg" align="left" height="200" width="200" ></a>     
 
  ### What can we help you with?
   - Indigency
