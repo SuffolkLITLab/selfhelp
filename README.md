@@ -4,7 +4,7 @@
 
 ##Family Law
 
-[![Image of 1](https://mlursul.github.io/selfhelp/images/FamilyLawLogo)](https://www.youtube.com/watch?v=qbPf9VRP6eU)
+[![Image of 1](https://mlursul.github.io/selfhelp/images/FamilyLawLogo.jpeg)](https://www.youtube.com/watch?v=qbPf9VRP6eU)
 A geo-locator app can be used to search for and filter through programs and services in your area. Click the video to watch a presentation explaining what a geo-locator app does and why it can be useful. This repository was created to help you create your own version of Suffolk LIT Lab's geo-locator website application, which can be found [here.](http://suffolklitlab.org/resource-map/) Here are the steps to create your own geo-locator website application:
 **<p> 1. Head to https://github.com/ and create your own account. </p>**
 **<p> 2. Once you've created an account, go to https://github.com/SuffolkLITLab/resource-map-how-to. </p>**
