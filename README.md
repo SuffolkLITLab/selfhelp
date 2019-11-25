@@ -1,4 +1,4 @@
-</HEAD>
+</HEAD>Suffolk Law School
 
 <BODY BGCOLOR="#ffffff" BACKGROUND="" MARGINWIDTH="0" MARGINHEIGHT="0">
 
