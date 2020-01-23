@@ -29,8 +29,8 @@
 [![Image of 1](https://mlursul.github.io/Self-Help/images/AdultGuardianship.PNG)](https://youtu.be/nLd4gxX29xM)
 
 ### What can we help you with?
-- [Indigency](https://mlursul.github.io/clio/)
-- [Restraining Order (209(a))](https://mlursul.github.io/clio/)
+- [Court Costs](https://mlursul.github.io/clio/)
+- [Restraining Order](https://mlursul.github.io/clio/)
 - [Divorce](https://mlursul.github.io/clio/)
 
 # Health Law<img src="https://mlursul.github.io/Self-Help/images/HealthLogo.jpg" align="left" height="60" width="60">
@@ -39,5 +39,5 @@
 [![Image of 1](https://mlursul.github.io/Self-Help/images/AdultGuardianship.PNG)](https://youtu.be/nLd4gxX29xM)
 
 ### Adult Guardianship Help
-- [Permanent & Temporary Guardianship](https://mlursul.github.io/clio/)
-- [Rogers Review Assistant](https://mlursul.github.io/RogersReview/)
+- [Adult Guardianship](https://mlursul.github.io/clio/)
+- [Rogers Review](https://mlursul.github.io/RogersReview/)
